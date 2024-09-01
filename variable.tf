@@ -1,9 +1,3 @@
-variable "region" {}
-variable "project_name" {}
-variable "vpc_cidr" {}
-variable "public_subnet_az1_cidr" {}
-variable "public_subnet_az2_cidr" {}
-variable "private_app_subnet_az1_cidr" {}
-variable "private_app_subnet_az2_cidr" {}
-variable "private_data_subnet_az1_cidr" {}
-variable "private_data_subnet_az2_cidr" {}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b3d5be03c2db6e0b1d4a4c60fea0eb795a428ee2eb5071704a8d84ef24e3265
+size 322
